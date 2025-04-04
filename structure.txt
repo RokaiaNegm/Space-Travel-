@@ -1,0 +1,12 @@
+Project Structure:
+
+/Space-Travel
+|
+|
+|_____ index.html
+|
+|_____ main.css
+|
+|_____ script.js
+|
+|_____ assets/planet.png
